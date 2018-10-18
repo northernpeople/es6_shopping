@@ -20,5 +20,5 @@ let server = http.createServer(function (req, res){
 });
 
 
-console.log("listening es6 es6_shopping");
+console.log("listening es6_shopping");
 server.listen(3031);
